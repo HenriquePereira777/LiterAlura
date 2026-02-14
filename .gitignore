@@ -1,0 +1,15 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Mac
+.DS_Store
+
+# Build Maven
+target/
+
+# Logs
+*.log
+
+# Zip
+*.zip
