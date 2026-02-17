@@ -34,7 +34,7 @@ Este projeto foi desenvolvido durante o **programa Oracle Next Education (ONE)**
 
 ## 🛠️ Tecnologias Utilizadas
 
-* Java 17+
+* Java 21+
 * Spring Boot
 * Spring Data JPA
 * Hibernate
